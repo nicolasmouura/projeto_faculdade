@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+body > section {
+    display: block;
+    margin: auto;
+    background-color: aliceblue;
+    max-width: 900px;
+    max-height: 5000px;
+}
+
+body > section  > ul > li{
+    list-style: none;
+}
+
+*{
+  padding: 8px; 
+  margin: 0px;
+}
+
+.foto-perfil{
+border-radius: 100%;
+max-width: 120px;
+}
+
+
